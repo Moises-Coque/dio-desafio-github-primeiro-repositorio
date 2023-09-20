@@ -1,0 +1,3 @@
+link dowload do git: https://git-scm.com/downloads
+link dowload flaticon:https://www.flaticon.com/br/icones-gratis/baixar
+O Git Bash é um terminal extendido para otimizar o uso do Git.
