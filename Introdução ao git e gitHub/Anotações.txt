@@ -1,3 +1,15 @@
 link dowload do git: https://git-scm.com/downloads
 link dowload flaticon:https://www.flaticon.com/br/icones-gratis/baixar
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Dias de estudos semanal (Programação)
+
+Segunda-Feira: Spread Fullstack Developer Dio das 8:00 as 11:40 AM / Aulas de Inglês das 14:00 as 15:30 / Dio CSS Web Developer das 16:30 as 18:00.
+Terça-Feira: Matemática  aplicada das 8:00as 11:40 AM / Dio HTML Web Developer das 14:00 as 16:00 / Soft Skills das 16:30 as 18:00. as
+Quarta-Feira: Dio Formação Lógica de programação das 8:00 as 11:40 AM / Devclub Formação Fullstack 14:00 as 18:00 / Dio CSS Web Developer das 19:00 as 21:30.
+Quinta-Feira: Algoritmos Guanabara das 8:00 as 11:40 AM / Dio HTML Web Developer das 14:00 as 16:00 / Dio CSS Web Developer das 16:30 as 18:00 / Inglês das 19:00 as 21:30.
+Sexta-Feira: Devclub das 8:00 as 11:40 AM / Aulas de Inglês das 14:00 as 15:30 / Formação Javascript Developer das 16:30 as 20:30.
+Sábado: Devclub (Dia todo)
+Ddomingo: Dio.me (Dia todo)
+
+Obs: Esta lista foi criada por mim de modo que eu possa seguir e ter um melhor desempenho, seguindo a risca a todos os detalhes, rumo a tão sonhada PrimeiraVaga.
